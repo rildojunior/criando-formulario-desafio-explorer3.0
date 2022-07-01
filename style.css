@@ -242,3 +242,8 @@ fieldset .time {
   line-height: 26px;
   color: #FFFFFF;
 }
+
+.button:hover {
+  background: #cf766c;
+  cursor: pointer;
+}
